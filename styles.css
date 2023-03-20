@@ -135,3 +135,19 @@ li {
     left: 0;
     clip-path: circle(600px at right 1000px);
 }
+
+button:hover {
+    opacity: 0.8;
+}
+
+button:active {
+    opacity: 0.5;
+}
+
+li:hover {
+    opacity: 0.8;
+}
+
+li:active {
+    opacity: 0.5;
+}
