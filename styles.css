@@ -151,3 +151,61 @@ li:hover {
 li:active {
     opacity: 0.5;
 }
+
+@media screen and (max-width: 1000px){
+
+    ul {
+        gap: 50px;
+        margin-left: 50px;
+    }
+
+    .logo-apple {
+        position: absolute;
+        left: 30px;
+    }
+
+}
+
+@media screen and (max-width: 800px) {
+    
+    .master-box {
+        display: inline-block;
+    }
+
+    .img-iphones {
+        width: 320px;
+        position: relative;
+        margin-top: 30px;
+    }
+
+    .circulo {
+        width: 143%;
+        position: fixed;
+        z-index: -99;
+    }
+
+}
+
+@media screen and (max-width: 500px) {
+    .logo-apple {
+
+        left: 30px;
+    }
+
+    ul {
+        gap: 5px;
+    }
+
+    .circulo {
+        width: 143%;
+    }
+
+
+}
+
+@media screen and (max-width: 400px) {
+    .logo-apple {
+
+        left: 15px;
+    }
+}
