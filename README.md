@@ -1,4 +1,4 @@
-[Projeto ONLINE, experimente agora](https://modelo-pagina-venda-iphone-anderdev.netlify.app/) <br>
+[Projeto ONLINE, experimente agora](https://anderdev-github.github.io/Modelo-Pagina-Venda-Iphone_anderdev/) <br>
 
 
 <h3 align="center">
